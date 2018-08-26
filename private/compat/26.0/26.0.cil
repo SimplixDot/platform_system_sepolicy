@@ -438,6 +438,7 @@
 (typeattributeset postinstall_dexopt_26_0 (postinstall_dexopt))
 (typeattributeset postinstall_file_26_0 (postinstall_file))
 (typeattributeset postinstall_mnt_dir_26_0 (postinstall_mnt_dir))
+(typeattributeset pocket_service_26_0 (pocket_service))
 (typeattributeset powerctl_prop_26_0 (powerctl_prop))
 (typeattributeset power_service_26_0 (power_service))
 (typeattributeset ppp_26_0 (ppp))
